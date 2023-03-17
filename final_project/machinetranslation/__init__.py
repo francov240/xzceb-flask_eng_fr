@@ -1,2 +1,2 @@
 from . import translator
-#rom tests import test
+#from tests import test
